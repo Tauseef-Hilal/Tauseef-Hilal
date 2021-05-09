@@ -4,7 +4,7 @@
 ## Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=_tauseef_.visitor-badge)
 I'm a High School Student and a beginner Python Developer.
 
-As a developer, I love descovering new ideas and creating new cools stuff.
+As a developer, I love descovering new ideas and creating new cools stuff.<br>
 I enjoy watching TV Schows and find peace in rain!
 
 ## Talking about Personal Stuffs:
