@@ -5,7 +5,7 @@
 I'm a High School Student and a beginner Python Developer.
 
 As a developer, I love descovering new ideas and creating new cool stuff.<br>
-I enjoy watching TV Schows and find peace in rain!
+I enjoy watching TV Shows and find peace in rain!
 
 ## Talking about Personal Stuffs:
 - 🔭 I’m currently working on something cool!
