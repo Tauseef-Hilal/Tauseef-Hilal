@@ -11,7 +11,7 @@ I enjoy watching TV Shows and find peace in rain!
 - 🔭 I’m currently working on something cool!
 - 🌱 I’m currently learning **Python.**
 - 👨‍💻 All of my projects are available at [https://github.com/Tauseef-Hilal](https://github.com/Tauseef-Hilal)
-- 📫 How to reach me: **tantary.tauseef@gmail.com**
+- 📫 How to reach me: **tantary.tauseef.atwork@gmail.com**
 - ⚡ Fun fact: **I'm a Pluviophile!**
 
 ## GitHub Stats
