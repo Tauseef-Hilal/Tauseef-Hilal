@@ -8,8 +8,8 @@ As a developer, I love descovering new ideas and creating new cool stuff.<br>
 I enjoy watching TV Shows and find peace in rain!
 
 ## Talking about Personal Stuffs:
-- 🔭 I’m currently working on something cool!
-- 🌱 I’m currently learning **Python.**
+- 🔭 I’m currently on a long break from Tech!
+- 🌱 I’m currently preparing for my **boards.**
 - 👨‍💻 All of my projects are available at [https://github.com/Tauseef-Hilal](https://github.com/Tauseef-Hilal)
 - 📫 How to reach me: **tantary.tauseef.atwork@gmail.com**
 - ⚡ Fun fact: **I'm a Pluviophile!**
