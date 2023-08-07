@@ -3,13 +3,3 @@
 
 ## Glad to see you here!
 I'm a Computer Science student in my freshman year (of college). I like to spend time working with computers. I usually do coding but am also fond of Music. I find it peaceful when it rains.
-
-
-## 🚥 🚥 🚥
-- 🔭 Computers are cool. So are you! (and so am I 😉)
-- 🤖 Join our Discord server: https://discord.gg/zXVWkEaank
-- 🌧 I love ❤️ rain ☔️. `Pluviophile` I am!
-- 📫 Write me something: **tantary.tauseef.atwork@gmail.com**
-
-## GitHub Stats
-![My GitHub Status](https://github-readme-stats.vercel.app/api?username=Tauseef-Hilal&show_icons=true&theme=radical)
