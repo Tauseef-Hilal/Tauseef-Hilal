@@ -1,5 +1,3 @@
-# Hey 👋, I'm Tauseef!
-<a href="https://twitter.com/_tauseef_hilal_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+SPARKED BY CODE IN 5TH GRADE, I TURNED CURIOSITY INTO DIGITAL CREATION. DESPITE DOUBTS, MY LOVE FOR PROGRAMMING PERSISTED. NOW, A COMPUTER SCIENCE MAJOR IN COLLEGE, BLENDING MOBILE, WEB, AND SOFTWARE DEVELOPMENT SKILLS. DEDICATED TO UNLEASHING DIGITAL WONDERS ON THE HORIZON. [READ MY FULL BIO](https://tauseef-tantary.vercel.app/biography)
 
-## Glad to see you here!
-I'm a Computer Science student in my sophomore year (of college). I like to spend time working with computers. I usually do coding but am also fond of Music. I find it peaceful when it rains.
+> A SYMPHONY OF MOBILE, WEB, AND SOFTWARE ECHOES, CRAFTING DIGITAL WONDERS ON THE HORIZON'S CANVAS.
